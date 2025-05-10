@@ -5,7 +5,6 @@ This repository contains the documentation for the News Write AI Chrome Extensio
 ## Contents
 
 - [Privacy Policy](privacy.html)
-- [Terms of Service](terms.html)
 
 ## About News Write AI
 
